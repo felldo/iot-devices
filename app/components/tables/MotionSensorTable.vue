@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import {motionSensors} from "~/service/MotionSensors";
+import {motionSensors} from "~/data/devices/MotionSensors";
 
 </script>
 
